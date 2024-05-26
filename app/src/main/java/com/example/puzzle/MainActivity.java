@@ -20,22 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-        Button instructionsButton = findViewById(R.id.instructionsButton); 
-        instructionsButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, InstructionsActivity.class);
-                startActivity(intent);
-            }
-        });
-
-        Button exitButton = findViewById(R.id.exitButton);
-        exitButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                finish();  
-            }
-        });
+        
+        
     }
 }
