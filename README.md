@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Puzzle Game Layouts by Apoorv
 
-## What's in This Repo?
-The repo contains parts done by Apoorv in the Android Puzzle Game project. Apoorv worked on creating the visual parts of our app using XML layout files in Android Studio.
 
 ## Apoorv's Contributions
 
@@ -25,7 +22,34 @@ The repo contains parts done by Apoorv in the Android Puzzle Game project. Apoor
 ## Summary
 Apoorv focused on making sure that the parts of our app you see and interact with are well-designed and make sense for users. This repo contains all his work on those designs.
 
+Bhumin's Contributions
+
+Main Functionalities Implemented:
+
+GameActivity.java: Handles the game's logic, making sure the puzzle pieces can move and players can interact with the grid.
+InstructionsActivity.java: Allows users to view helpful instructions on how to play the game and navigate back to the main menu.
+
+Specific Tasks:
+
+GameActivity.java
+
+Developed the tile movement logic to allow swapping pieces in the grid.
+Implemented checks to determine when the puzzle is correctly solved.
+Added listeners to make the grid interactive.
+
+InstructionsActivity.java
+
+Set up an activity to display game rules and a return button that leads back to the main menu.
+
+Tools Used
+
+Java: Used for all backend logic and activity interactions.
+Android Studio: Utilized for developing, testing, and managing our app.
+
+Summary
+
+Bhumin worked on making sure our game is not only visually appealing but also fully functional.
 Thanks for checking out our project!
 =======
-# Puzzle
->>>>>>> 5ec4aed70e341e6dc138bebd47b8c7e156762b61
+# Sliding-Puzzle_Game
+
