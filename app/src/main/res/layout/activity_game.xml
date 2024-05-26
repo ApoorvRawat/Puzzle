@@ -16,7 +16,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        android:background="@drawable/grid_background"/>
+        android:background="@drawable/grid_background"
+        android:scrollbars="none"/>
 
     <Button
         android:id="@+id/exitGameButton"

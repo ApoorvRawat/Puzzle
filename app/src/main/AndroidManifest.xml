@@ -12,6 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Puzzle"
+        android:largeHeap="true"
         tools:targetApi="31">
 
         <!-- Declaration of MainActivity with INTENT FILTERS to set it as the launcher activity -->
@@ -32,7 +33,6 @@
         <!-- Declaration of InstructionsActivity -->
         <activity android:name=".InstructionsActivity"
             android:exported="true">
-
         </activity>
 
     </application>

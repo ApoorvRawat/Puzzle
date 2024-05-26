@@ -9,7 +9,6 @@
         android:id="@+id/textViewInstructions"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Welcome to the Sliding Puzzle Game!\n\nThe goal is to arrange the tiles in ascending numerical order from 1 to 15 with the empty space at the bottom right corner. Tap a tile adjacent to the empty space to move it."
         android:textSize="18sp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
