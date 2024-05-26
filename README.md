@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Puzzle Game Layouts by Apoorv
 
 ## What's in This Repo?
@@ -25,3 +26,6 @@ The repo contains parts done by Apoorv in the Android Puzzle Game project. Apoor
 Apoorv focused on making sure that the parts of our app you see and interact with are well-designed and make sense for users. This repo contains all his work on those designs.
 
 Thanks for checking out our project!
+=======
+# Puzzle
+>>>>>>> 5ec4aed70e341e6dc138bebd47b8c7e156762b61
