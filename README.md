@@ -27,6 +27,7 @@ Bhumin's Contributions
 Main Functionalities Implemented:
 
 GameActivity.java: Handles the game's logic, making sure the puzzle pieces can move and players can interact with the grid.
+
 InstructionsActivity.java: Allows users to view helpful instructions on how to play the game and navigate back to the main menu.
 
 Specific Tasks:
